@@ -1,0 +1,1 @@
+CREATE SCHEMA `bdcursos2` ;
